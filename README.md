@@ -1,7 +1,7 @@
 # VillageTopia-V3
 Enjoy! Problems? Dm Time#1337
 
-relase : https://github.com/TimeTopia/VillageTopia-V3/releases/tag/VTPSV3
+release : https://github.com/TimeTopia/VillageTopia-V3/releases/tag/VTPSV3
 
 Server Updates :
 
